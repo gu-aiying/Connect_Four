@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Connect Four/task/build/
+/Connect Four/task/out/
+/Connect Four/task/out/production/classes/
+/Topics/Mutable List/Mutable List/out/
+/Topics/Mutable List/Mutable List/out/production/classes/

@@ -1,0 +1,29 @@
+type: matching
+captions:
+  - removeAt()
+  - remove()
+  - clear()
+  - add()
+  - set()
+  - addAll()
+options:
+  - Removes all elements from the current collection
+  - Adds an extra element to a list
+  - Removes an element at a specified index
+  - ' Adds all of the elements of the specified collection to the end of the list'
+  - Replaces the element at the specified position with a specified element
+  - Removes the specified element
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20612#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5

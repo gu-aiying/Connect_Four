@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: remove(index)
+  - text: clear(index)
+  - text: delete(index)
+  - text: removeAt(index)
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11037#comment
+status: Solved
+record: -1
+custom_name: Comprehension
+local_check: false

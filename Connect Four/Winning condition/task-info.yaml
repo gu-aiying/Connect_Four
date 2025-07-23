@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: src/connectfour/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/ConnectFourTest.kt
+    visible: false
+    learner_created: false
+  - name: src/connectfour/PlayGame.kt
+    visible: true
+    learner_created: true
+  - name: src/connectfour/InitBoard.kt
+    visible: true
+    learner_created: true
+  - name: src/connectfour/DrawBoard.kt
+    visible: true
+    learner_created: true
+  - name: src/connectfour/WinGame.kt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/14781#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 23 Jul 2025 09:08:51 UTC"
+record: 4

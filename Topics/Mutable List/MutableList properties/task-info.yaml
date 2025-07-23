@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: You can't remove elements from it
+  - text: Its size can be changed
+  - text: It is an ordered sequence of elements
+  - text: It allows you to have duplicates
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11033#comment
+status: Solved
+record: -1
+local_check: false
